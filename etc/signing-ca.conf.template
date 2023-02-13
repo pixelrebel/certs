@@ -16,10 +16,10 @@ ocsp_url                = http://ocsp.$domain:8888            # OCSP responder U
 countryName             = US
 stateOrProvinceName     = California
 localityName            = Los Angeles
-organizationName        = Pixel Rebel
+organizationName        = My Company
 organizationalUnitName  = Network Security
-commonName              = Pixel Rebel - Signing CA
-emailAddress            = ca@pixelrebel.com
+commonName              = My Company - Signing CA
+emailAddress            = ca@mycompany.com
 
 # The next part of the configuration file is used by the openssl req command.
 # It defines the CA's key pair, its DN, and the desired extensions for the CA
